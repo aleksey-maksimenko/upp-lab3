@@ -1,0 +1,481 @@
+[ {
+  "id" : 1,
+  "model" : "Sport 2",
+  "brand" : "HIGH SEASON",
+  "price" : 37119.63,
+  "inStock" : false
+}, {
+  "id" : 2,
+  "model" : "Cluster 10",
+  "brand" : "OPTIMAL",
+  "price" : 14340.0,
+  "inStock" : false
+}, {
+  "id" : 3,
+  "model" : "Velocity 9",
+  "brand" : "KUDO",
+  "price" : 56168.13,
+  "inStock" : false
+}, {
+  "id" : 4,
+  "model" : "Classic 7",
+  "brand" : "OPTIMAL",
+  "price" : 57575.52,
+  "inStock" : false
+}, {
+  "id" : 5,
+  "model" : "Sport 1",
+  "brand" : "OPTIMAL",
+  "price" : 62670.77,
+  "inStock" : true
+}, {
+  "id" : 6,
+  "model" : "Megan 7",
+  "brand" : "HIGH SEASON",
+  "price" : 43171.29,
+  "inStock" : false
+}, {
+  "id" : 7,
+  "model" : "Explorer 3",
+  "brand" : "ELZA",
+  "price" : 62135.87,
+  "inStock" : false
+}, {
+  "id" : 8,
+  "model" : "Sport 6",
+  "brand" : "HIGH SEASON",
+  "price" : 105383.32,
+  "inStock" : true
+}, {
+  "id" : 9,
+  "model" : "Turbo 4",
+  "brand" : "OPTIMAL",
+  "price" : 69702.6,
+  "inStock" : false
+}, {
+  "id" : 10,
+  "model" : "Explorer 4",
+  "brand" : "OPTIMAL",
+  "price" : 64123.58,
+  "inStock" : false
+}, {
+  "id" : 11,
+  "model" : "Pro 6",
+  "brand" : "KUDO",
+  "price" : 42261.65,
+  "inStock" : false
+}, {
+  "id" : 12,
+  "model" : "Cross 4",
+  "brand" : "HIGH SEASON",
+  "price" : 32697.01,
+  "inStock" : false
+}, {
+  "id" : 13,
+  "model" : "Velocity 4",
+  "brand" : "ELZA",
+  "price" : 102986.61,
+  "inStock" : false
+}, {
+  "id" : 14,
+  "model" : "Classic 7",
+  "brand" : "KUDO",
+  "price" : 47943.04,
+  "inStock" : true
+}, {
+  "id" : 15,
+  "model" : "Turbo 10",
+  "brand" : "KUDO",
+  "price" : 48444.24,
+  "inStock" : true
+}, {
+  "id" : 16,
+  "model" : "Urban 9",
+  "brand" : "OPTIMAL",
+  "price" : 95830.25,
+  "inStock" : true
+}, {
+  "id" : 17,
+  "model" : "Urban 7",
+  "brand" : "KUDO",
+  "price" : 17376.61,
+  "inStock" : true
+}, {
+  "id" : 18,
+  "model" : "Velocity 8",
+  "brand" : "ELZA",
+  "price" : 115809.47,
+  "inStock" : false
+}, {
+  "id" : 19,
+  "model" : "Explorer 4",
+  "brand" : "KUDO",
+  "price" : 119313.84,
+  "inStock" : false
+}, {
+  "id" : 20,
+  "model" : "Racer 4",
+  "brand" : "HIGH SEASON",
+  "price" : 77758.03,
+  "inStock" : false
+}, {
+  "id" : 101,
+  "model" : "Marlin 5",
+  "brand" : "Trek",
+  "price" : 55000.0,
+  "inStock" : true
+}, {
+  "id" : 102,
+  "model" : "Rockhopper",
+  "brand" : "Specialized",
+  "price" : 62000.0,
+  "inStock" : true
+}, {
+  "id" : 103,
+  "model" : "Talon 2",
+  "brand" : "Giant",
+  "price" : 48000.0,
+  "inStock" : true
+}, {
+  "id" : 104,
+  "model" : "Aspect 970",
+  "brand" : "Scott",
+  "price" : 75000.0,
+  "inStock" : true
+}, {
+  "id" : 105,
+  "model" : "Scale 980",
+  "brand" : "Scott",
+  "price" : 83000.0,
+  "inStock" : true
+}, {
+  "id" : 106,
+  "model" : "Cluster 3",
+  "brand" : "OPTIMAL",
+  "price" : 35000.0,
+  "inStock" : true
+}, {
+  "id" : 107,
+  "model" : "Megan 2",
+  "brand" : "KUDO",
+  "price" : 42000.0,
+  "inStock" : true
+}, {
+  "id" : 108,
+  "model" : "Racer 5",
+  "brand" : "HIGH SEASON",
+  "price" : 68000.0,
+  "inStock" : true
+}, {
+  "id" : 109,
+  "model" : "Cross 1",
+  "brand" : "ELZA",
+  "price" : 54000.0,
+  "inStock" : true
+}, {
+  "id" : 110,
+  "model" : "Explorer 4",
+  "brand" : "OPTIMAL",
+  "price" : 71000.0,
+  "inStock" : true
+}, {
+  "id" : 111,
+  "model" : "Velocity 3",
+  "brand" : "KUDO",
+  "price" : 39000.0,
+  "inStock" : true
+}, {
+  "id" : 112,
+  "model" : "Trail 7",
+  "brand" : "HIGH SEASON",
+  "price" : 92000.0,
+  "inStock" : true
+}, {
+  "id" : 113,
+  "model" : "Urban 2",
+  "brand" : "ELZA",
+  "price" : 47000.0,
+  "inStock" : true
+}, {
+  "id" : 114,
+  "model" : "Pro 6",
+  "brand" : "OPTIMAL",
+  "price" : 63000.0,
+  "inStock" : true
+}, {
+  "id" : 115,
+  "model" : "Classic 8",
+  "brand" : "KUDO",
+  "price" : 58000.0,
+  "inStock" : true
+}, {
+  "id" : 116,
+  "model" : "Sport 4",
+  "brand" : "HIGH SEASON",
+  "price" : 75000.0,
+  "inStock" : true
+}, {
+  "id" : 117,
+  "model" : "Cluster 9",
+  "brand" : "ELZA",
+  "price" : 41000.0,
+  "inStock" : true
+}, {
+  "id" : 118,
+  "model" : "Megan 5",
+  "brand" : "OPTIMAL",
+  "price" : 52000.0,
+  "inStock" : true
+}, {
+  "id" : 119,
+  "model" : "Racer 2",
+  "brand" : "KUDO",
+  "price" : 67000.0,
+  "inStock" : true
+}, {
+  "id" : 120,
+  "model" : "Cross 8",
+  "brand" : "HIGH SEASON",
+  "price" : 89000.0,
+  "inStock" : true
+}, {
+  "id" : 121,
+  "model" : "Explorer 3",
+  "brand" : "ELZA",
+  "price" : 56000.0,
+  "inStock" : true
+}, {
+  "id" : 122,
+  "model" : "Velocity 7",
+  "brand" : "OPTIMAL",
+  "price" : 72000.0,
+  "inStock" : true
+}, {
+  "id" : 123,
+  "model" : "Trail 1",
+  "brand" : "KUDO",
+  "price" : 44000.0,
+  "inStock" : true
+}, {
+  "id" : 124,
+  "model" : "Urban 5",
+  "brand" : "HIGH SEASON",
+  "price" : 78000.0,
+  "inStock" : true
+}, {
+  "id" : 125,
+  "model" : "Pro 9",
+  "brand" : "ELZA",
+  "price" : 51000.0,
+  "inStock" : true
+}, {
+  "id" : 126,
+  "model" : "Classic 3",
+  "brand" : "OPTIMAL",
+  "price" : 64000.0,
+  "inStock" : true
+}, {
+  "id" : 127,
+  "model" : "Sport 7",
+  "brand" : "KUDO",
+  "price" : 59000.0,
+  "inStock" : true
+}, {
+  "id" : 128,
+  "model" : "Cluster 4",
+  "brand" : "HIGH SEASON",
+  "price" : 86000.0,
+  "inStock" : true
+}, {
+  "id" : 129,
+  "model" : "Megan 8",
+  "brand" : "ELZA",
+  "price" : 46000.0,
+  "inStock" : true
+}, {
+  "id" : 130,
+  "model" : "Racer 6",
+  "brand" : "OPTIMAL",
+  "price" : 53000.0,
+  "inStock" : true
+}, {
+  "id" : 131,
+  "model" : "Cross 3",
+  "brand" : "KUDO",
+  "price" : 70000.0,
+  "inStock" : true
+}, {
+  "id" : 132,
+  "model" : "Explorer 9",
+  "brand" : "HIGH SEASON",
+  "price" : 95000.0,
+  "inStock" : true
+}, {
+  "id" : 133,
+  "model" : "Velocity 2",
+  "brand" : "ELZA",
+  "price" : 48000.0,
+  "inStock" : true
+}, {
+  "id" : 134,
+  "model" : "Trail 5",
+  "brand" : "OPTIMAL",
+  "price" : 66000.0,
+  "inStock" : true
+}, {
+  "id" : 135,
+  "model" : "Urban 8",
+  "brand" : "KUDO",
+  "price" : 55000.0,
+  "inStock" : true
+}, {
+  "id" : 136,
+  "model" : "Pro 2",
+  "brand" : "HIGH SEASON",
+  "price" : 81000.0,
+  "inStock" : true
+}, {
+  "id" : 137,
+  "model" : "Classic 6",
+  "brand" : "ELZA",
+  "price" : 50000.0,
+  "inStock" : true
+}, {
+  "id" : 138,
+  "model" : "Sport 1",
+  "brand" : "OPTIMAL",
+  "price" : 69000.0,
+  "inStock" : true
+}, {
+  "id" : 139,
+  "model" : "Cluster 7",
+  "brand" : "KUDO",
+  "price" : 57000.0,
+  "inStock" : true
+}, {
+  "id" : 140,
+  "model" : "Megan 4",
+  "brand" : "HIGH SEASON",
+  "price" : 84000.0,
+  "inStock" : true
+}, {
+  "id" : 141,
+  "model" : "Racer 8",
+  "brand" : "ELZA",
+  "price" : 45000.0,
+  "inStock" : true
+}, {
+  "id" : 142,
+  "model" : "Cross 6",
+  "brand" : "OPTIMAL",
+  "price" : 61000.0,
+  "inStock" : true
+}, {
+  "id" : 143,
+  "model" : "Explorer 2",
+  "brand" : "KUDO",
+  "price" : 73000.0,
+  "inStock" : true
+}, {
+  "id" : 144,
+  "model" : "Velocity 9",
+  "brand" : "HIGH SEASON",
+  "price" : 97000.0,
+  "inStock" : true
+}, {
+  "id" : 145,
+  "model" : "Trail 3",
+  "brand" : "ELZA",
+  "price" : 52000.0,
+  "inStock" : true
+}, {
+  "id" : 146,
+  "model" : "Urban 7",
+  "brand" : "OPTIMAL",
+  "price" : 68000.0,
+  "inStock" : true
+}, {
+  "id" : 147,
+  "model" : "Pro 4",
+  "brand" : "KUDO",
+  "price" : 60000.0,
+  "inStock" : true
+}, {
+  "id" : 148,
+  "model" : "Classic 9",
+  "brand" : "HIGH SEASON",
+  "price" : 88000.0,
+  "inStock" : true
+}, {
+  "id" : 149,
+  "model" : "Sport 5",
+  "brand" : "ELZA",
+  "price" : 49000.0,
+  "inStock" : true
+}, {
+  "id" : 150,
+  "model" : "Cluster 2",
+  "brand" : "OPTIMAL",
+  "price" : 65000.0,
+  "inStock" : true
+}, {
+  "id" : 151,
+  "model" : "Megan 7",
+  "brand" : "KUDO",
+  "price" : 56000.0,
+  "inStock" : true
+}, {
+  "id" : 152,
+  "model" : "Racer 4",
+  "brand" : "HIGH SEASON",
+  "price" : 82000.0,
+  "inStock" : true
+}, {
+  "id" : 153,
+  "model" : "Cross 9",
+  "brand" : "ELZA",
+  "price" : 43000.0,
+  "inStock" : true
+}, {
+  "id" : 154,
+  "model" : "Explorer 6",
+  "brand" : "OPTIMAL",
+  "price" : 59000.0,
+  "inStock" : true
+}, {
+  "id" : 155,
+  "model" : "Velocity 1",
+  "brand" : "KUDO",
+  "price" : 74000.0,
+  "inStock" : true
+}, {
+  "id" : 156,
+  "model" : "Trail 8",
+  "brand" : "HIGH SEASON",
+  "price" : 91000.0,
+  "inStock" : true
+}, {
+  "id" : 157,
+  "model" : "Urban 4",
+  "brand" : "ELZA",
+  "price" : 51000.0,
+  "inStock" : true
+}, {
+  "id" : 158,
+  "model" : "Pro 7",
+  "brand" : "OPTIMAL",
+  "price" : 67000.0,
+  "inStock" : true
+}, {
+  "id" : 159,
+  "model" : "Classic 2",
+  "brand" : "KUDO",
+  "price" : 62000.0,
+  "inStock" : true
+}, {
+  "id" : 160,
+  "model" : "Sport 8",
+  "brand" : "HIGH SEASON",
+  "price" : 85000.0,
+  "inStock" : true
+} ]
